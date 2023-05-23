@@ -1,0 +1,14 @@
+{
+  "name": "test-gpc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "puppeteer-core": "^19.6.0",
+    "yarn": "^1.22.19"
+  }
+}
